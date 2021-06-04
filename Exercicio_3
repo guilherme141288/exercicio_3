@@ -1,0 +1,9 @@
+#summing up numbers
+
+import math
+
+a = int (input ('digite um valor   '))
+b = int (input ('digite outro valor   '))
+c = a + b
+
+print ('a soma dos valores digitado é',c)
